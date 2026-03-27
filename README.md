@@ -34,7 +34,7 @@ This project analyzes LinkedIn profile performance using Power BI. It provides i
 
 ## 📸 Dashboard Preview
 
-![Dashboard](dashboard.png)
+![Dashboard]dashboard png.png
 
 ---
 
